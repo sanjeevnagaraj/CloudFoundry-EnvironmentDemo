@@ -22,7 +22,7 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 
 /**
  * Controller for the Cloud Foundry workshop - Spring MVC version.
- * 
+ * test
  */
 @Controller
 public class IndexController {
